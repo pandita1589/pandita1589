@@ -6,7 +6,7 @@
 
 <h1 align="center" color="#8700ff">Hello There 
 </h1>
-<img align="right" src="https://media.tenor.com/iq2gk37_io8AAAAj/panda-greetings.gif" width=300 height=600>
+<img align="right" src="https://media.tenor.com/iq2gk37_io8AAAAj/panda-greetings.gif" width=300 height=400>
 
 ## Informacion
 
