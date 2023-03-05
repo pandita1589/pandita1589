@@ -1,25 +1,11 @@
 
 <h1 align="center">pan_dita1589</h1>
 
-<div align="center">
+## Informacion
 
-**Top.gg**
+Hola soy pan_dita1589 un desarrollador de bots con el lenguaje JavaScripth, soy principiante en esto recien pero aprendo rapido, soy tambien desarrollador de webs con HTML, CSS y Java, mi especialidad es el HTML, soy un chico que quiere estudiar ingenieria de sistemas, ser el mejor programador que hay en todo el mundo (si eso fuera posible), pero bueno, solo se que puedo hacer un ingeniero de sistemas, ahora es de hablar un poco mas de mi, yo inicie desde 0 hasta que conoci el packague aoi.js aprendi un poco de ese lenguaje medio raro, de ahi aprendi djs que es lo que estoy haciendo actualmente, por ese motivo ahora ando creando un bot con ese lenguaje y eso que voy super bien, esperemos que mi proyecto llamado PalPley Studios salga bien, ahora si me despido de esta pequeña informacion que di, bye!
 
-[![PalPley Server][palpley-server]][palpley-server-url]
-
-[palpley-server]: https://img.shields.io/discord/1050492618146062497?color=C0E4FF&label=SERVIDOR&style=for-the-badge
-[palpley-server-url]: https://discord.gg/TBwPxtUG5p
-
-</div>
-
-
-## PalPley Politica
-
-Esta politica consiste que el bot comparte codigos con aliados, socios e amigos; nuestro equipo no pasa codigos a cualquier usario, solo pasamos a los que tenemos confianza e amistad o sean socios.
-No se comparte tokens ni link de mongoDB, si esque es un developer del bot, sistema eval consiste estar presonalizado solo para los developers del bot nada mas, no pones ID de otros usuarios si no es de los colobarodes del bot, por lo tanto si el bot detecta que otro ID esta de otro usuario se indicara el responsable de lo sucedido. 
-No compartimos informacion de otros usuarios si esta sometida en nuestra DataBase, nos conformamos por la seguridad de los usuarios e amigos del bot, no queremos tener problemas con [Discord](https://discord.com/) y estar felices con nuestra comunidad.
-
-Nuestro proyecto PalPley Studios trata de alegrar a la comunidad de discord y ser util en los millones de servidores que exite en discord, la idea se creo pasando por una noche larga y sufrimiento despues de muchos proyectos fallidos por eso se eligio que este proyecyo se quede intacto cueste lo que cueste, no dejaremos que nada nos detenga y seguiremos adelante para que el bot se mantenga, muchas gracias por estar con nostros usuario.
+![preview img](https://media.discordapp.net/attachments/1059853976595607612/1082051446972891146/Untitled27_20221024120557.png)
 
 
 ## Librerias
