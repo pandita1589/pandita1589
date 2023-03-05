@@ -1,14 +1,12 @@
 <p align="center">
   <a href="https://discord.gg/TBwPxtUG5p">
-    <img width="300" src="https://media.discordapp.net/attachments/1059853976595607612/1082051446972891146/Untitled27_20221024120557.png" alt="palpley.png">
+    <img width="300" src="https://media.discordapp.net/attachments/1059853976595607612/1082051446972891146/Untitled27_20221024120557.png" alt="pan_dita1589">
   </a>
 </p>
 
 <h1 align="center" color="#8700ff">Hello There 
 </h1>
-<img align="right" src="https://cdn.discordapp.com/attachments/734127839544344678/987300131109994506/ezgif.com-gif-maker_4.gif" width=300 height=500>
-
-<h1 align="center">pan_dita1589</h1>
+<img align="right" src="https://media.tenor.com/iq2gk37_io8AAAAj/panda-greetings.gif" width=300 height=500>
 
 ## Informacion
 
