@@ -19,17 +19,19 @@ Hola soy pan_dita1589 un desarrollador de bots con el lenguaje JavaScripth, soy 
 
 | Proyectos       | 
 | ----------- |
-| cum         |
-| anal        |
-| yaoi        |
+| Mitsrui Kanroji       | (Fracaso)
 |             |
-| yuri        |
+| Muichiro Tokito      | (Fracaso)
 |             |
-| neko        |
+| Rengoku      | (Fracaso)
 |             |
-| blowjob     |
+| BoyFirends     | (Fracaso)
 |             |
-| pussylick   |
+| hello Panda     | (Fracaso)
+|             |
+| ChinChin    | (Fracaso)
+|             |
+| PalPley  | (Activo)
 
 Futura version muy pronto.
 
